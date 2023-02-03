@@ -6,7 +6,7 @@
 /** variable */
 let user
 let user2
-//let 2user 변수명은 문자로시작해야한다.
+//let 2user 변수명은 문자로시작해야한다.,중복x
 let _user
 let $user
 
