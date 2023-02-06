@@ -1,3 +1,4 @@
+//function이 블럭일떄
 const age = 16
 
 function init(){

@@ -7,7 +7,7 @@ function sayHi(){//제이커리
 
 sayHi()
 
-sayHello()
+//sayHello()
 
 const sayHello = function(){//리액터
     console.log('Hello',userName)

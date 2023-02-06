@@ -1,16 +1,16 @@
 function makeCounter(){
-    let conunt = 0
+    let count = 0
 
     return function(){
-        return ++conunt
+        return ++count
     }
 }
 
-let conunter1 = makeCounter()
-let conunter2 = makeCounter()
+let counter1 = makeCounter()
+let counter2 = makeCounter()
 
 for(let i = 0; i < 2; i++)
-    console.log(conunter1())
+    console.log(counter1())
 
 for(let i = 0; i < 2; i++)
-    console.log(conunter2())
+    console.log(counter2())

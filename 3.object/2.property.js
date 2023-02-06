@@ -36,7 +36,7 @@ user={
 user.greet()
 
 /*optional chaining 옵션들은 연결하는것을 말한다.,undefind 가 나오면 error뜸*/
-//? 을 붙히면 undefind 에서 멈추게된다.문법 오른쪽에 쓰자.
+//? 을 붙히면 undefind 에서 멈추게된다.문법 할당연산자 오른쪽에 쓰자.
 user = {}
 let address = {}
 user.address = address

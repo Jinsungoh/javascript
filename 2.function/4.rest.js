@@ -1,4 +1,4 @@
-//rest 는 남는건 기본적으로 버린다.
+//rest 는 남는건 기본적으로 버린다.,문법상 파라미터 제일마지막에쓴다
 function add(a,b){
     return a + b
 }
