@@ -1,0 +1,22 @@
+let msg = 'hello';
+// msg = 1 타입스크립트는 변수의 데이터타입을 정한다
+let val = 1;
+let nullableStr = null;
+nullableStr = 'Hi';
+//nullableStr = undefined
+let undefinedOrNumber;
+undefinedOrNumber = 10;
+undefinedOrNumber = undefined;
+let numberOrStringOrNull = null;
+numberOrStringOrNull = 1;
+numberOrStringOrNull = 'Bye';
+let isCompleted = true;
+isCompleted = false;
+//isCompleted = 0
+let anyValue = null;
+anyValue = undefined;
+anyValue = 1;
+anyValue = 'hello';
+let a = 1;
+let b = 'b';
+let c = true;
